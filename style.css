@@ -1,6 +1,16 @@
 div{
-    background-color: gray;
-    margin: 10px;
-    border-radius: 5px color yellow;
-    
-}
+     color: yellowgreen;
+    background-color: rgb(47, 37, 47);
+     margin: 50px ;
+     border-radius:10px;
+     padding: 2%;
+     text-align: center;
+     border-style: dotted ;
+     border-width: 10px;
+     font-size: larger;
+     border-color: aqua;
+     
+    }
+    ol{
+        margin: 20px;
+    }
